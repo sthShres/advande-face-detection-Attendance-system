@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220462124806",
+    "project_id": "facedetection-1ae65",
+    "storage_bucket": "facedetection-1ae65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220462124806:android:53fdbaccc6c0a96564d887",
+        "android_client_info": {
+          "package_name": "com.aibased.cp_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220462124806-19jq1e76cuqnnfnvltgsbn49hvj5g235.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOmAfOJz4TYhvyaBJhud3UodBxSVpst8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220462124806-19jq1e76cuqnnfnvltgsbn49hvj5g235.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
